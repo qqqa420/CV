@@ -1,0 +1,10 @@
+{
+"first_name":"Grzegorz", 
+"last_name":"Brzęczyszczykiewicz",
+"birthday":"09-05-1996",
+"age":28,
+"skills":["MySQL", "Git", "Postman"], 
+"languages":["English", "Russian"],
+"education":["Belhard Academy Belarus QA course (in process)"],
+"experience": null
+}
